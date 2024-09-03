@@ -4,6 +4,7 @@
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 		</view>
+		<navigator url="/pages/submit/submit">提交页面</navigator>
 	</view>
 </template>
 

@@ -32,6 +32,20 @@
 		    {
 		        "navigationBarTitleText" : "商城"
 		    }
+		},
+		{
+			"path" : "pages/submit/submit",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/testTitle/testTitle",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
 		}
 
 	],
